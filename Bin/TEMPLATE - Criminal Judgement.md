@@ -5,7 +5,7 @@
 	Registry:	Vancouver
 
 <p align="center"><b><i>
-				IN THE MUNICIPAL COURT OF VANCOUVER
+				IN THE PROVINCIAL COURT OF BRITISH COLUMBIA
 </b></i>
 
 ---
@@ -46,4 +46,4 @@ BETWEEN:
 
 _
 	
-Municipal Court Judge
+Provincial Court Judge
